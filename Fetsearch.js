@@ -15,8 +15,9 @@
 // 5: Open Fetlife, sign in, go to Places at the top
 // 6: Click a location from the list
 // 7: (Optional but recommended) Click a city
-// 8: Make sure that's the ONLY tab open in Firefox
-// 9: Play the script
+// 8: Click "View More-->" below the first 6 profiles
+// 9: Make sure that's the ONLY tab open in Firefox
+// 10: Play the script
 
 
 //************ VALUES *************
